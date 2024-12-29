@@ -147,9 +147,7 @@ los demás procediemientos han sido compartidos por correo a las personas indica
 
 ---
 
-## Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente respetando los términos de la licencia.
 
 
 
