@@ -42,7 +42,7 @@ Esta aplicación permite gestionar reservas para salas, utilizando .NET Framewor
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/johanS123/reservationSystem.git
+   https://github.com/KIMIO1/Reservasmundo.git
    ```
 2. **Configurar la Base de Datos**:
    - Crear una base de datos en SQL Server.
